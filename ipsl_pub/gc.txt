@@ -1,0 +1,12 @@
+Bleu GC 1
+Bleu GC 2
+Bleu GC 3
+Bleu GC 4
+Bleu GC 5
+Bleu GC 6
+Bleu GC 7
+Bleu GC 8
+Bleu GC 9
+Bleu GC 10
+Bleu GC 11
+Bleu GC 12

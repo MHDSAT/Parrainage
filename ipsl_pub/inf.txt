@@ -1,0 +1,11 @@
+Bleu INF 1
+Bleu INF 2
+Bleu INF 3
+Bleu INF 4
+Bleu INF 5
+Bleu INF 6
+Bleu INF 7
+Bleu INF 8
+Bleu INF 9
+Bleu INF 10
+Bleu INF 11

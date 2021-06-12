@@ -1,0 +1,12 @@
+Bleu EM 1
+Bleu EM 2
+Bleu EM 3
+Bleu EM 4
+Bleu EM 5
+Bleu EM 6
+Bleu EM 7
+Bleu EM 8
+Bleu EM 9
+Bleu EM 10
+Bleu EM 11
+Bleu EM 12

@@ -1,0 +1,16 @@
+1 Bleu CPI 5 - *** - Ancien CPI 2
+
+2 Bleu CPI 9 - *** - Ancien CPI 3
+
+3 Bleu CPI 10 - *** - Ancien CPI 7
+
+4 Bleu CPI 8 , Bleu CPI 1 - *** - Ancien CPI 1
+
+5 Bleu CPI 3 - *** - Ancien CPI 8
+
+6 Bleu CPI 4 - *** - Ancien CPI 4
+
+7 Bleu CPI 7 , Bleu CPI 6 - *** - Ancien CPI 6
+
+8 Bleu CPI 2 - *** - Ancien CPI 5
+

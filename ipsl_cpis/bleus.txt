@@ -1,0 +1,10 @@
+Bleu CPI 1
+Bleu CPI 2
+Bleu CPI 3
+Bleu CPI 4
+Bleu CPI 5
+Bleu CPI 6
+Bleu CPI 7
+Bleu CPI 8
+Bleu CPI 9
+Bleu CPI 10

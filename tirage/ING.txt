@@ -1,0 +1,58 @@
+******************** Bleu - *** - Parrain Info ********************
+
+1 Ance INF 2 - *** - Bleu INF 11
+
+2 Ance INF 5 - *** - Bleu INF 4
+
+3 Ance INF 1 - *** - Bleu INF 6
+
+4 Ance INF 3 - *** - Bleu INF 5
+
+5 Ance INF 4 - *** - Bleu INF 1
+
+******************** Bleu - *** - Parrain Electro-Meca ********************
+
+1 Ance EM 6 - *** - Bleu EM 6
+
+2 Ance EM 9 - *** - Bleu EM 11
+
+3 Ance EM 1 - *** - Bleu EM 1
+
+4 Ance EM 5 - *** - Bleu EM 10
+
+5 Ance EM 3 - *** - Bleu EM 12
+
+6 Ance EM 4 - *** - Bleu EM 5
+
+7 Ance EM 7 - *** - Bleu EM 2
+
+8 Ance EM 2 - *** - Bleu EM 7
+
+9 Ance EM 8 - *** - Bleu EM 3
+
+******************** Bleu - *** - Parrain Genie Civil ********************
+
+1 Ance GC 7 , Ance GC 12 - *** - Bleu GC 7
+
+2 Ance GC 9 - *** - Bleu GC 2
+
+3 Ance GC 13 , Ance GC 14 - *** - Bleu GC 8
+
+4 Ance GC 10 - *** - Bleu GC 6
+
+5 Ance GC 11 - *** - Bleu GC 12
+
+6 Ance GC 2 - *** - Bleu GC 4
+
+7 Ance GC 16 - *** - Bleu GC 5
+
+8 Ance GC 3 , Ance GC 1 - *** - Bleu GC 3
+
+9 Ance GC 8 - *** - Bleu GC 9
+
+10 Ance GC 4 - *** - Bleu GC 1
+
+11 Ance GC 15 , Ance GC 5 - *** - Bleu GC 11
+
+12 Ance GC 6 - *** - Bleu GC 10
+
